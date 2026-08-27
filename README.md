@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Francesco 👋
 
-<!--
-**Fpculcasi/fpculcasi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend engineer building distributed systems, IoT platforms, and cloud-native services.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Languages & Runtimes**  
+Java · Kotlin · C# / .NET · Python
+
+**Cloud & Infrastructure**  
+AWS (IoT Core, Lambda, Elasticsearch) · Azure (Service Bus, IoT Hub, AI Foundry) · Docker
+
+**Focus areas**  
+IoT pipelines · microservices · real-time event processing · AI integration
+
+---
+
+🔎 I work across the full backend lifecycle — from architecture and protocol design to production SLA ownership.
+
+💼 **LinkedIn:** [linkedin.com/in/fpculcasi](https://linkedin.com/in/fpculcasi)
+
+---
+
+> *"Smart devices feel like magic. I build what's behind them."*
