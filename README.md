@@ -10,7 +10,7 @@ Backend engineer building distributed systems, IoT platforms, and cloud-native s
 Java · Kotlin · C# / .NET · Python · Js / Typescript
 
 **Cloud & Infrastructure**  
-AWS (IoT Core, Lambda, Elasticsearch) · Azure (Service Bus, IoT Hub, AI Foundry) · Docker
+AWS (IoT Core, Lambda, App Runner, Elasticsearch) · Azure (Storage Account's Queue/Blob/Service Buse, IoT Hub, AI Foundry, Function App) · Docker
 
 **Focus areas**  
 IoT pipelines · microservices · real-time event processing · AI integration · Voice assistants
