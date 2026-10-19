@@ -1,8 +1,8 @@
-# Hi, I'm Francesco 👋
+# Ciao, Francesco here! 👋
 
-Senior consultant @ [Concept Engineering Reply](https://www.reply.com/concept-reply/en).
+Backend Engineer & Senior Consultant @ [Concept Engineering Reply](https://www.reply.com/concept-reply/en).
 
-Backend engineer building distributed systems, IoT platforms, and cloud-native services.
+Building distributed systems, IoT platforms, and cloud-native services.
 
 ---
 
@@ -10,10 +10,10 @@ Backend engineer building distributed systems, IoT platforms, and cloud-native s
 Java · Kotlin · C# / .NET · Python · Js / Typescript
 
 **Cloud & Infrastructure**  
-AWS (IoT Core, Lambda, App Runner, Elasticsearch) · Azure (Storage Account's Queue/Blob/Service Buse, IoT Hub, AI Foundry, Function App) · Docker
+AWS (IoT Core, Lambda, App Runner, ECS) · Azure (IoT Hub, AI Foundry, Function App, Storage Account's Queue/Blob/Service Buse) · Docker
 
 **Focus areas**  
-IoT pipelines · microservices · real-time event processing · AI integration · Voice assistants
+IoT pipelines · microservices · real-time event processing · High Availability · AI integration · Voice assistants
 
 ---
 
@@ -23,4 +23,4 @@ IoT pipelines · microservices · real-time event processing · AI integration �
 
 ---
 
-> *"Smart devices feel like magic. I build what's behind them."*
+> Smart devices feel magical 🪄 and I explore the magic around them.
